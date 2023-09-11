@@ -700,13 +700,18 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #191919;
+  color: red;
+  font-size: 1em;
+  font-weight: bold;
 }
 
 .services .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color:red;
+  font-size: 0.999;
+  font-weight: bold;
 }
 
 .services .icon-box:hover {
@@ -716,7 +721,7 @@ section {
 }
 
 .services .icon-box:hover .icon {
-  background: #fff;
+  background: black;
 }
 
 .services .icon-box:hover .icon i {
@@ -729,7 +734,7 @@ section {
 
 .services .icon-box:hover h4 a,
 .services .icon-box:hover p {
-  color: #fff;
+  color: red;
 }
 
 /*--------------------------------------------------------------
